@@ -1,0 +1,123 @@
+body{
+	margin: 5px,0;
+	padding: 0;
+}
+
+
+.mainbox{
+	 width: 1300px;
+     height: 616px;
+     background-color: #a6c1d8;
+     margin: 0 auto;
+}
+
+
+.menu{    
+	background-color: #074479;
+    width: 1299px;
+    height: 67px;
+    float: left;
+}
+ ul{
+ 	margin: 0;
+    padding: 0;
+}
+
+ li{    
+ 	list-style: none;
+    float: right;}
+ 
+ a{    
+ 	text-decoration: none;
+    color: #fff;
+    margin: 25px;
+    font-size: large;
+    font-style: oblique;
+    display: block;
+    font-family: cursive;
+}
+ a:hover{
+ 	color: red;
+ 	background-color: black;
+
+ }
+
+.bodybox{
+	width:1300px;
+	height: 512px;
+	float: left;
+}
+.leftbodybox{
+	width: 1000px;
+	height: 512px;
+	background: orange;
+	float: left;
+}
+.up1{
+	width: 600px;
+	height:171px;
+	background: red;
+	float: left;
+
+}
+.up2{
+	width: 400px;
+	height: 171px;
+	float: right;
+	background: black;
+
+
+}
+.mid1{
+    width: 400px;
+	height: 171px;
+	float: left;
+	background: black;
+}
+.mid2{
+	width: 600px;
+	height:171px;
+	background: blue;
+	float: right;
+}
+.bottom1{
+    width: 333.33px;
+	height: 171px;
+	float: left;
+	background: blue;
+}
+ .bottom2{
+ 	width: 333.33px;
+	height: 171px;
+	background: yellow;
+	float:left;
+}
+.bottom3{
+    width: 333.33px;
+	height: 171px;
+	float: right;
+	background: red;
+}
+.rightbodybox{
+	width: 300px;
+	height: 512px;
+	float: left;
+}
+.imageone{
+	width: 300px;
+	height: 256px;
+	background: red;
+	float: left;
+}
+.imagetwo{
+	width: 300px;
+	height: 256px;
+	background: yellow;
+	float: left;
+}
+.footer{
+	width: 1300px;
+    background-color: black;
+    overflow: hidden;
+    height: 37px;
+}
